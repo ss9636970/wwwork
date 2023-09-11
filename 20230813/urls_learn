@@ -27,4 +27,40 @@ https://murphypei.github.io/blog/2020/09/pytorch-distributed
 
 https://github.com/MuhammadMoinFaisal/LargeLanguageModelsProjects/blob/main/Fine-Tune%20Llama%202/Fine_tune_Llama_2_in_Google_Colab.ipynb (fine tune code)
 
-https://github.com/facebookresearch/llama/pull/147/files
+https://github.com/MiuLab/Taiwan-LLaMa  (中文 llama2)
+
+https://huggingface.co/TheBloke/Llama-2-7b-Chat-GPTQ
+
+https://github.com/facebookresearch/llama/pull/147/files (解決 torchrun flask)
+
+https://www.pingwest.com/a/285585 (llama2 中文介紹)
+
+https://zhuanlan.zhihu.com/p/645645716 (finetune)
+
+https://towardsdatascience.com/fine-tune-your-own-llama-2-model-in-a-colab-notebook-df9823a04a32 (finetune2)
+
+https://ngbala6.medium.com/inference-on-llama2-codellama-ffc6840f6054 (llama2 & code llama inference)
+
+https://www.deeplearning.ai/short-courses/ (ai 課程)
+
+https://arxiv.org/abs/2106.03253 (deep learning is all you need)
+
+segamaker (mlops)
+
+https://magazine.sebastianraschka.com/p/ahead-of-ai-11-new-foundation-models?utm_source=ai.briefnewsletter.com&utm_medium=newsletter&utm_campaign=ai (Llama0 & code llama  論文介紹)
+
+scikit-LLM
+
+https://bangqu.com/7p8743.html?fbclid=IwAR2Tjgcp8QQQrkBgjp2jIimdcKvXzY4KByNhjT1L01dyGaVPLU3PVvdae0s_aem_AcO9yzrxFdCQdNjWmtYYdx-W4AGKdTd3W9LbixbW6S8PMTojC5zlG1RsJBHqwjPVyUI&mibextid=Zxz2cZ#lluzg3r8k51t0jqlxa  (code llama 效能介紹)
+
+https://www.baseten.co/blog/build-a-chatbot-with-llama-2-and-langchain (langchain with chatbot)
+
+https://ihower.tw/notes/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98-AI/OpenAI/LangChain+for+LLM+Application+Development (langchain with nlp)
+
+https://zhuanlan.zhihu.com/p/424631681 (Byte Pair Encoding)
+
+https://zhuanlan.zhihu.com/p/632102048 (llama 論文介紹)
+
+https://zhuanlan.zhihu.com/p/644443386 (llama2 論文介紹)
+
+https://ihower.tw/blog/archives/11715 (LLM 應用開發)
